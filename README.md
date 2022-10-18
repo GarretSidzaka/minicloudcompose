@@ -1,3 +1,4 @@
+```
 ---
 version: "3"
 
@@ -57,3 +58,4 @@ services:
       - cloudnetwork
 networks:
   cloudnetwork:
+```
